@@ -8,11 +8,11 @@
 		"512": "icon/512.png"
 	},
 	"default_locale": "en",
-	"name": "Universal Bypass",
-	"description": "__MSG_appDesc__",
+	"name": "ImFrom9",
+	"description": "supermanfrom9",
 	"homepage_url": "https://universal-bypass.org/",
-	"version": "13.12.1",
-	"author": "Sainan.de",
+	"version": "imfron90",
+	"author": "khalidolivo",
 	"permissions": [
 		"alarms",
 		"storage",
